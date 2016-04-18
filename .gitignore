@@ -14,8 +14,10 @@ hs_err_pid*
 .classpath
 .settings/
 bin/
+target/
 *.class
-
+.factorypath
+.springBeans
 
 #Data files
 data/
